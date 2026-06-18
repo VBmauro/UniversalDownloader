@@ -20,7 +20,7 @@ import conf_management as cfg
 # --- CONSTANTES DE ACTUALIZACION ---
 APP_VERSION = "2.1.0"
 # CAMBIA ESTO: pon tu usuario de GitHub donde dice TU_USUARIO
-MI_USUARIO_GITHUB = "TU_USUARIO"  # <--- CAMBIA ESTO por tu usuario de GitHub
+MI_USUARIO_GITHUB = "VBmauro"  # <--- CAMBIA ESTO por tu usuario de GitHub
 APP_VERSION_URL = f"https://raw.githubusercontent.com/{MI_USUARIO_GITHUB}/UniversalDownloader/main/version.txt"
 APP_DOWNLOAD_URL = f"https://raw.githubusercontent.com/{MI_USUARIO_GITHUB}/UniversalDownloader/main/main.py"
 
@@ -502,3 +502,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
